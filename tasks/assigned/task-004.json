@@ -1,0 +1,27 @@
+{
+  "id": "task-004",
+  "title": "兒子解難能力訓練計劃",
+  "description": "為兒子制定解難能力訓練計劃，他喜歡車車、Lego、砌Puzzle，但遇到困難會叫爸媽幫手",
+  "assigned_to": "tutor",
+  "state": "assigned",
+  "created_at": "2026-03-28T22:16:00+08:00",
+  "updated_at": "2026-03-28T22:16:00+08:00",
+  "created_by": "main",
+  "priority": "medium",
+  "artifacts": ["/Users/sacompig/.openclaw/workspace/shared/artifacts/learning/task-004-problem-solving.md"],
+  "handoff_notes": "請根據以下資料制定計劃：\n\n【兒子】\n- 喜歡車車，經常趴在地上觀察車轆轉動\n- 喜歡玩Lego和砌Puzzle\n- 遇到困難會叫爸爸媽媽協助\n\n【目標】\n- 訓練獨立解難能力\n- 唔好一遇困難就放棄\n- 從興趣入手（車車、Lego、Puzzle）",
+  "comments": [
+    {
+      "agent": "main",
+      "action": "created",
+      "note": "示範任務創建流程",
+      "timestamp": "2026-03-28T22:16:00+08:00"
+    },
+    {
+      "agent": "main",
+      "action": "assigned",
+      "note": "已分配俾 tutor agent",
+      "timestamp": "2026-03-28T22:16:30+08:00"
+    }
+  ]
+}

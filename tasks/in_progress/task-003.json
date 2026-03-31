@@ -1,0 +1,33 @@
+{
+  "id": "task-003",
+  "title": "女兒中文科學習計劃",
+  "description": "為女兒制定中文科學習計劃",
+  "assigned_to": "tutor",
+  "state": "in_progress",
+  "created_at": "2026-03-28T12:05:00+08:00",
+  "updated_at": "2026-03-28T12:09:00+08:00",
+  "created_by": "main",
+  "priority": "high",
+  "artifacts": ["/Users/sacompig/.openclaw/workspace/children-learning.md"],
+  "handoff_notes": "請根據以下資料制定學習計劃：\n\n【女兒】\n- 英文強（93分），數學弱（50分），中文弱（50分中得39分）\n- 喜歡繪畫、公主手作\n- 喜歡看 Dog Man、Cat Kids 英文書\n- 對學習有壓力，需要愉快學習環境\n\n【家庭背景】\n- 媽媽教女兒時會喝，令女兒有壓力\n- 用戶希望保持女兒學習興趣\n- 用戶輪班工作，放假時間有限\n\n【目標】\n- 中文學習要愉快唔好有壓力\n- 從興趣入手（繪畫、公主主題）\n- 參考 Dog Man/Cat Kids 等書籍引起興趣",
+  "comments": [
+    {
+      "agent": "main",
+      "action": "created",
+      "note": "New task for daughter Chinese learning",
+      "timestamp": "2026-03-28T12:05:00+08:00"
+    },
+    {
+      "agent": "main",
+      "action": "assigned",
+      "note": "Assigned to tutor agent",
+      "timestamp": "2026-03-28T12:07:00+08:00"
+    },
+    {
+      "agent": "main",
+      "action": "updated",
+      "note": "Added detailed info: daughter likes drawing, princess crafts, Dog Man/Cat Kids books, English 93分, Math 50分, Chinese 50分中得39分, stressed when learning with mom",
+      "timestamp": "2026-03-28T12:09:00+08:00"
+    }
+  ]
+}

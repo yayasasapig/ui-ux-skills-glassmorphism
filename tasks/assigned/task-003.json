@@ -1,0 +1,27 @@
+{
+  "id": "task-003",
+  "title": "女兒中文科學習計劃",
+  "description": "為女兒制定中文科學習計劃，包括認字、作文、閱讀理解",
+  "assigned_to": "tutor",
+  "state": "assigned",
+  "created_at": "2026-03-28T12:05:00+08:00",
+  "updated_at": "2026-03-28T12:07:00+08:00",
+  "created_by": "main",
+  "priority": "high",
+  "artifacts": [],
+  "handoff_notes": "請制定適合小學生不同程度的中文學習計劃，包括認字、作文、閱讀理解等方面",
+  "comments": [
+    {
+      "agent": "main",
+      "action": "created",
+      "note": "New task for daughter Chinese learning",
+      "timestamp": "2026-03-28T12:05:00+08:00"
+    },
+    {
+      "agent": "main",
+      "action": "assigned",
+      "note": "Assigned to tutor agent",
+      "timestamp": "2026-03-28T12:07:00+08:00"
+    }
+  ]
+}

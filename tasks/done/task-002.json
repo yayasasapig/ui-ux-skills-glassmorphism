@@ -1,0 +1,29 @@
+{
+  "id": "task-002",
+  "title": "YouTube熱門影片報告",
+  "description": "每日18:00自動搜索YouTube香港熱門影片並發送到Telegram",
+  "assigned_to": "jemmy",
+  "state": "done",
+  "created_at": "2026-03-28T08:45:00+08:00",
+  "updated_at": "2026-03-28T08:45:30+08:00",
+  "created_by": "main",
+  "priority": "medium",
+  "cron_schedule": "0 18 * * *",
+  "artifacts": [],
+  "channel": "telegram",
+  "recipient": "8744150155",
+  "comments": [
+    {
+      "agent": "main",
+      "action": "created",
+      "note": "Created daily YouTube trending task",
+      "timestamp": "2026-03-28T08:45:00+08:00"
+    },
+    {
+      "agent": "jemmy",
+      "action": "completed",
+      "note": "Cron job active, running daily at 18:00",
+      "timestamp": "2026-03-28T08:45:30+08:00"
+    }
+  ]
+}

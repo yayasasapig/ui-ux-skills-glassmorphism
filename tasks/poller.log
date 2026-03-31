@@ -1,0 +1,5 @@
+[2026-03-28 17:23:38] === Task Poller Started ===
+[2026-03-28 17:23:38] Found 1 new task(s)
+[2026-03-28 17:23:38] Processing: task-003
+[2026-03-28 17:23:38] task-003: No agent assigned, skipping
+[2026-03-28 17:23:38] === Task Poller Finished ===

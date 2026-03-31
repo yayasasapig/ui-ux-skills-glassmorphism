@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "reminder": {
+      "version": "0.1.1",
+      "installedAt": 1773463512987
+    },
+    "agent-team-orchestration": {
+      "version": "1.0.0",
+      "installedAt": 1774668867974
+    }
+  }
+}

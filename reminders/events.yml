@@ -1,0 +1,40 @@
+# events.yml
+# Timezone: Asia/Shanghai
+# Default reminder offsets (minutes): 1440,60,10
+
+events:
+  - id: event-001
+    title: 接仔女+阿哥生日飯
+    datetime: "2026-03-15T16:00:00+08:00"
+    notes: "放工後返屋企接仔女，返屋企食飯慶祝阿哥生日，要帶禮物（卡片套）"
+    reminders:
+      - offset_minutes: 1440
+      - offset_minutes: 60
+      - offset_minutes: 10
+
+  - id: event-002
+    title: 老竇東區複診
+    datetime: "2026-03-18T11:45:00+08:00"
+    notes: "東區醫院複診"
+    reminders:
+      - offset_minutes: 1440
+      - offset_minutes: 60
+      - offset_minutes: 10
+
+  - id: event-003
+    title: 老竇瑪麗醫院組織檢查
+    datetime: "2026-03-18T15:00:00+08:00"
+    notes: "老竇瑪麗醫院組織檢查"
+    reminders:
+      - offset_minutes: 1440
+      - offset_minutes: 60
+      - offset_minutes: 10
+
+  - id: event-004
+    title: 濟公爺生日佛堂聚會
+    datetime: "2026-03-20T17:00:00+08:00"
+    notes: "3月20號下晝5:00喺佛堂集合，濟公爺生日，要帶燒魚"
+    reminders:
+      - offset_minutes: 1440
+      - offset_minutes: 60
+      - offset_minutes: 10

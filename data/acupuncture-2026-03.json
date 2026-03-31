@@ -1,0 +1,26 @@
+{
+  "year": 2026,
+  "month": 3,
+  "generated_at": "2026-03-16T10:58:00Z",
+  "note": "已從 traeyb22ju1g.vercel.app 驗證數據",
+  "days": {
+    "16": {
+      "date": "2026-03-16",
+      "lunar_ganzhi": "丙午年 辛卯月 己丑日",
+      "hours": [
+        {"shichen": "子時", "time": "23:00-01:00", "ganzhi": "甲子", "linggui_main": "照海 (坤)", "linggui_guest": "列缺", "feiteng": "公孫 (乾)"},
+        {"shichen": "丑時", "time": "01:00-03:00", "ganzhi": "乙丑", "linggui_main": "公孫 (乾)", "linggui_guest": "內關", "feiteng": "申脈 (坤)"},
+        {"shichen": "寅時", "time": "03:00-05:00", "ganzhi": "丙寅", "linggui_main": "足臨泣 (巽)", "linggui_guest": "外關", "feiteng": "內關 (艮)"},
+        {"shichen": "卯時", "time": "05:00-07:00", "ganzhi": "丁卯", "linggui_main": "照海 (坤)", "linggui_guest": "列缺", "feiteng": "照海 (兌)"},
+        {"shichen": "辰時", "time": "07:00-09:00", "ganzhi": "戊辰", "linggui_main": "公孫 (乾)", "linggui_guest": "內關", "feiteng": "足臨泣 (坎)"},
+        {"shichen": "巳時", "time": "09:00-11:00", "ganzhi": "己巳", "linggui_main": "外關 (震)", "linggui_guest": "足臨泣", "feiteng": "列缺 (離)", "note": "現在時段"},
+        {"shichen": "午時", "time": "11:00-13:00", "ganzhi": "庚午", "linggui_main": "申脈 (坎)", "linggui_guest": "後溪", "feiteng": "外關 (震)"},
+        {"shichen": "未時", "time": "13:00-15:00", "ganzhi": "辛未", "linggui_main": "照海 (坤)", "linggui_guest": "列缺", "feiteng": "後溪 (巽)"},
+        {"shichen": "申時", "time": "15:00-17:00", "ganzhi": "壬申", "linggui_main": "外關 (震)", "linggui_guest": "足臨泣", "feiteng": "公孫 (乾)"},
+        {"shichen": "酉時", "time": "17:00-19:00", "ganzhi": "癸酉", "linggui_main": "申脈 (坎)", "linggui_guest": "後溪", "feiteng": "申脈 (坤)"},
+        {"shichen": "戌時", "time": "19:00-21:00", "ganzhi": "甲戌", "linggui_main": "足臨泣 (巽)", "linggui_guest": "外關", "feiteng": "公孫 (乾)"},
+        {"shichen": "亥時", "time": "21:00-23:00", "ganzhi": "乙亥", "linggui_main": "照海 (坤)", "linggui_guest": "列缺", "feiteng": "申脈 (坤)"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "task-003",
+  "title": "女兒中文科學習計劃",
+  "description": "為女兒制定中文科學習計劃，包括認字、作文、閱讀理解",
+  "assigned_to": null,
+  "state": "inbox",
+  "created_at": "2026-03-28T12:05:00+08:00",
+  "updated_at": "2026-03-28T12:05:00+08:00",
+  "created_by": "main",
+  "priority": "high",
+  "artifacts": [],
+  "notes": "需要根據女兒年級和具體需求定制",
+  "comments": [
+    {
+      "agent": "main",
+      "action": "created",
+      "note": "New task for daughter's Chinese learning",
+      "timestamp": "2026-03-28T12:05:00+08:00"
+    }
+  ]
+}

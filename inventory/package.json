@@ -1,0 +1,17 @@
+{
+  "name": "inventory",
+  "version": "1.0.0",
+  "description": "完整的家庭庫存管理系統，支持自動提醒、條碼掃描、智能預測。",
+  "main": "inventory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "csv-parse": "^6.1.0",
+    "csv-stringify": "^6.6.0"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "created": "2026-03-28T12:05:00+08:00",
+  "agents": {
+    "main": {"role": "orchestrator", "workspace": "workspace"},
+    "coding": {"role": "builder", "workspace": "workspace-coding"},
+    "translator": {"role": "reviewer", "workspace": "workspace-translator"},
+    "tutor": {"role": "reviewer", "workspace": "workspace-tutor"},
+    "inventor": {"role": "builder", "workspace": "workspace-inventor"},
+    "jemmy": {"role": "ops", "workspace": "workspace-jemmy"},
+    "dankoe": {"role": "ops", "workspace": "workspace-dankoe"},
+    "image": {"role": "builder", "workspace": "workspace-image"},
+    "qimen": {"role": "specialist", "workspace": "workspace-qimen"},
+    "research": {"role": "reviewer", "workspace": "workspace-research"}
+  },
+  "tasks": [
+    {"id": "task-001", "title": "針灸開穴表報告", "state": "done", "assigned_to": "dankoe"},
+    {"id": "task-002", "title": "YouTube熱門影片報告", "state": "done", "assigned_to": "jemmy"},
+    {"id": "task-003", "title": "女兒中文科學習計劃", "state": "done", "assigned_to": "tutor"},
+    {"id": "task-004", "title": "兒子解難能力訓練計劃", "state": "assigned", "assigned_to": "tutor"}
+  ],
+  "stats": {
+    "inbox": 0,
+    "assigned": 1,
+    "in_progress": 0,
+    "review": 0,
+    "done": 3,
+    "failed": 0
+  }
+}
